@@ -1,0 +1,11 @@
+.DS_Store
+.claude/settings.local.json
+node_modules/
+.env
+.env.*
+
+# App source lives in its own repo: atreyusutton/atreyu-sutton-website
+/atreyu-sutton-website/
+
+# ~98MB of raw asset originals, kept local
+/original-assets-not-part-of-git/
